@@ -1,8 +1,6 @@
 # Intro to Big Data with Spark
 
-En el presente repositorio muestro un conjunto de scripts en donde vemos algunas de las funciones básicas que nos permiten
-
-introducronos al mundo del Big Data con Spark (mediante pySpark).
+En el presente repositorio muestro un conjunto de scripts en donde vemos algunas de las funciones básicas que nos permiten introducronos al mundo del Big Data con Spark (mediante pySpark).
 
 Veremos cómo crear RDDs, DataFrames, cargar archivos de texto, filtrado de datos, manipulación con SQL, particionamientos, etc.
 
